@@ -1,0 +1,7 @@
+services:
+ cyberops:
+  build: .
+  container_name: cyberops
+  hostname: workstation
+  stdin_open: true
+  tty: true
