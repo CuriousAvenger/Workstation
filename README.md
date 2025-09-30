@@ -18,12 +18,11 @@ A personal, security-focused development and pentesting environment.
 
 ---
 
-## Organization
+## Current Structure
 
-- `ManFiles/` — Tool lists, usage notes, and quick references  
+- `Automation/` — Scripts and tools for workflow automation and research  
+- `CyberStation/` — Cybersecurity and development resources  
 - `HackTheBox/` — Writeups, scripts, and notes for HTB machines  
-- `DockerConfig/` — (Optional) Docker setup files  
-- Other folders/scripts for workflow automation and research
 
 ---
 
